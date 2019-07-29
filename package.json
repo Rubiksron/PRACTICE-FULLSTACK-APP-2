@@ -1,0 +1,24 @@
+{
+  "name": "practice-fullstack-app-2",
+  "version": "1.0.0",
+  "description": "Movie database using Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubiksron/PRACTICE-FULLSTACK-APP-2.git"
+  },
+  "author": "ron dunphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubiksron/PRACTICE-FULLSTACK-APP-2/issues"
+  },
+  "homepage": "https://github.com/Rubiksron/PRACTICE-FULLSTACK-APP-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7",
+    "nodemon": "^1.19.1"
+  }
+}
